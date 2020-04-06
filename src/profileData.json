@@ -1,0 +1,72 @@
+{
+	"landing": {
+		"firstName": "Manthan",
+		"lastName": "B Y",
+		"phoneNumber": "+91-9611110869",
+		"bio": "I am a 3rd year B. Tech Computer Science student currently studying at PES University with a good academic record and a keen interest in the field of software development, Networking, Cloud Computing, and I have practical experience in various technologies of the IT field. I am very passionate to share my knowledge and help other people.",
+    "email": "manthan.gowda@gmail.com",
+    "linkedin": "https://linkedin.com/in/manthanby/",
+		"github": "https://github.com/manthanmtg"
+	},
+	"experience": [
+		{
+				"position": "Research Intern",
+				"organization": "Center for Data Science and Applied Machine Learning",
+				"aboutWork": "Built a system which streams the twitter tweets in real-time and detects the topic based on the same.",
+				"fromDate": "June 2018",
+				"toDate": "July 2018"
+		},
+		{
+			"position": "Research Intern",
+			"organization": "Center for Cloud Computing and Big Data",
+			"aboutWork": "Working on the federation of clouds using OpenStack",
+			"fromDate": "June 2019",
+			"toDate": "Present"
+		}
+	],
+	"education": [{
+			"university": "PES University",
+			"degree": "Bachelor of Technology",
+			"gpa": "9.07",
+			"fromDate": "August 2017",
+			"toDate": "Present"
+		},
+		{
+			"university": "Sri Sai Angels Pre-University College",
+			"degree": "Pre-University",
+			"gpa": "97.16",
+			"fromDate": "May 2015",
+			"toDate": "May 2017"
+		}
+	],
+	"skills": [{
+			"name": "C++"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "C"
+		},
+		{
+			"name": "Java"
+		},
+		{
+			"name": "SQL"
+		},
+		{
+			"name": "JavaScript"
+		}
+	],
+	"interests": {
+		"paragraphOne": "I am very fond of reading programming books, most of my free time is spent on that.",
+		"paragraphTwo": "I write articles on medium and geeksforgeeks. I like playing cricket and watching movies."
+	},
+	"awards": [{
+			"awardDetail": "Prof. CNR Rao Merit Scholarship"
+		},
+		{
+			"awardDetail": "Distinction Award(All semesters)"
+		}
+	]
+}
